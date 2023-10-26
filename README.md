@@ -1,7 +1,10 @@
-# Past-assignments
-Year 1- Web Development
-WHAT I DID FOR MY WEBSITE
+# Web Development - Specially Made
+My first project. A bakery shopping website I did as part of my assignment. 
 
+👩‍💻𝗦𝗸𝗶𝗹𝗹𝘀 𝘂𝘀𝗲𝗱:
+• 𝙷𝚃𝙼𝙻𝟻
+• 𝙲𝚂𝚂𝟹
+• 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃 
 
 Across all pages
 Sticky top navigation bar.
